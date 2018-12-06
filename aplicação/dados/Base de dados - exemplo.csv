@@ -1,0 +1,12 @@
+ID;Nome;Sexo;Doença;Alergia;Peso;Altura;Bairro;Data Nascimento
+1;Antonieta;Feminino;Não;Sim;62;;Japiim 2;19/04/1992
+2;Diogo;M;X;;90;171;;01.01.1983
+3;;Masculino;X;7;;138;Japiim 2;07/07/2007
+A;Irene;F;Não;X;8000;56;Ponta Negra;
+5;Luan;22;;X;61;161;;19/08/1966
+6;Naldo;M;Não;Sim;130;1.78;Zumbi 1;1983/08/16
+7;157;Feminino;Não;X;58;152;Japiim 2;31/01/1969
+8;Patrícia;F;Não;Não;55;172;Japiim 2;26/12/1985
+9;Ronaldo;Masc;Não;Não;67;173;Compensa;21/03/1980
+10;Samara;Fem;Não;Sim;32;131;Educandos;07/09/2000
+11;Thiago;M;Sim;Sim;68;172;Japiim;23/05/1996
