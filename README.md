@@ -5,11 +5,11 @@ Amazonas (IFAM), para o curso de Análise e Desenvolvimento de Sistema, período
 
 Instalação do sistema:
 
-1) Instalação do gerenciador de banco de dados Mysql:
+1) Instalação do gerenciador de banco de dados MySQL:
 - Link para MySQL: https://dev.mysql.com/downloads/installer/
-- obs.: Sistema utiliza o usuário root
-      --Login: root
-      --Senha: root
+- obs.: Sistema utiliza o usuário root do banco de dados MySQL
+- Login: root
+- Senha: root
 
 
 2) Execução do script para geração do banco de dados dentro do ambiente visual do Mysql Workbench:
