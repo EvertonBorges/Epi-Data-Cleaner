@@ -45,7 +45,6 @@ CREATE TABLE `acao` (
 
 LOCK TABLES `acao` WRITE;
 /*!40000 ALTER TABLE `acao` DISABLE KEYS */;
-INSERT INTO `acao` VALUES (41,'255',1,'275',36,19),(42,'65',2,'45',36,20);
 /*!40000 ALTER TABLE `acao` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -210,7 +209,6 @@ CREATE TABLE `regra_campo` (
 
 LOCK TABLES `regra_campo` WRITE;
 /*!40000 ALTER TABLE `regra_campo` DISABLE KEYS */;
-INSERT INTO `regra_campo` VALUES (5,36),(7,33);
 /*!40000 ALTER TABLE `regra_campo` ENABLE KEYS */;
 UNLOCK TABLES;
 
