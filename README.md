@@ -1,4 +1,4 @@
-# Epi-Data-Cleaner
+# Epi Data Cleaner
 Projeto EPI DATA CLEANER - UTILITÁRIO PARA LIMPEZA E PADRONIZAÇÃO DE DADOS EPIDEMIOLÓGICOS.
 Projeto desenvolvido para o Trabalho de Conclusão de Curso (TCC), no Instituto Federal de Educação, Ciência e Tecnologia do
 Amazonas (IFAM), para o curso de Análise e Desenvolvimento de Sistema, período 2018/2.
