@@ -21,4 +21,4 @@ Instalação do sistema:
 3) Baixar o projeto:
 - Link do projeto: https://github.com/EvertonBorges/Epi-Data-Cleaner
 
-Executar arquivo "Epi Data Cleaner.jar" dentro da pasta "aplicação" quem vem junto ao download do projeto.
+Executar arquivo "Epi Data Cleaner.jar" dentro da pasta "aplicação", depois do download do projeto.
